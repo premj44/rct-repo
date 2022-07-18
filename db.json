@@ -1,0 +1,26 @@
+{
+    "Details":[
+        {
+            "id":"1",
+            "Name":"john",
+            "Hospital":"Sakra",
+            "Specialisation":"Nephrology",
+            "Salary":"2400000"
+        },
+        {
+            "id":"2",
+            "Name":"Aditya",
+            "Hospital":"Manipal",
+            "Specialisation":"General",
+            "Salary":"2000000"
+        },
+        {
+            "id":"3",
+            "Name":"Kanav",
+            "Hospital":"Manipal",
+            "Specialisation":"Radiologist",
+            "Salary":"3000000"
+        }
+           
+    ]
+}
